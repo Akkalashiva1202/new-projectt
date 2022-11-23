@@ -22,9 +22,9 @@
           "options": {
             /*
 
-            "outputPath": "docs",
-            */
             "outputPath": "dist/cloudkitchenweb",
+            */
+            "outputPath": "docs",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
